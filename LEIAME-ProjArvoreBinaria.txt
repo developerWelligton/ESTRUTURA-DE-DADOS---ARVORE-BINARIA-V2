@@ -1,0 +1,5 @@
+Este projeto é uma adaptação do TAD Arvore Binária Ordenada
+do Livro do Backes, usando "Tipo_Dado" (Tipo abstrato adotado nos nodos)
+
+Adaptado por:
+F.Osório
